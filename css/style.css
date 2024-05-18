@@ -24,9 +24,12 @@ body {
 	font-family: 'Roboto', sans-serif;
 	background-color: #ffffff;
 	color: #434455;
-    ul, ol {list-style: none;};
     text-decoration: none;
     font-style: normal;
+}
+
+ul, ol { 
+    list-style: none; 
 }
 
 .link {
@@ -63,7 +66,7 @@ body {
     text-decoration: underline;
     color: #404bbf;}
 
-    .section-1 {
+    .section1 {
         background: #2e2f42;
     }
     
@@ -87,4 +90,3 @@ body {
         cursor: pointer;
     }
 
-    
