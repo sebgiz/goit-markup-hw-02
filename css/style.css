@@ -99,4 +99,8 @@ ul, ol {
     cursor: pointer;
 }
     
+.button-class:hover,
 
+.button-class:focus {
+    background-color: #404BBF;
+}
