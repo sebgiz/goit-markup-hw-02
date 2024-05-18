@@ -61,14 +61,17 @@ ul, ol {
 }
 
 .link:hover {color: #404bbf;}
+
 .link:focus {color: #404bbf;}
+
 .link:active {
     text-decoration: underline;
-    color: #404bbf;}
+    color: #404bbf;
+}
 
-    .section1 {
-        background: #2e2f42;
-    }
+.section-one {
+    background: #2e2f42;
+}
     
     .head {
         font-weight: 500;
