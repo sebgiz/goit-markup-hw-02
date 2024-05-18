@@ -61,11 +61,19 @@ ul, ol {
 }
 
 .link:hover {color: #404bbf;}
-
 .link:focus {color: #404bbf;}
+
 
 .link:active {
     text-decoration: underline;
+    color: #404bbf;
+}
+
+.contact:hover {
+    color: #404bbf;
+}
+
+.contact:focus {
     color: #404bbf;
 }
 
