@@ -51,6 +51,12 @@ ul, ol {
     color: #434455
 }
 
+.contact:hover,
+
+.contact:focus {
+    color: #404bbf;
+}
+
 .list {
     list-style-type: none;
     text-decoration: none;
@@ -66,14 +72,6 @@ ul, ol {
 
 .link:active {
     text-decoration: underline;
-    color: #404bbf;
-}
-
-.contact:hover {
-    color: #404bbf;
-}
-
-.contact:focus {
     color: #404bbf;
 }
 
