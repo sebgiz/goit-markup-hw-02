@@ -72,24 +72,25 @@ ul, ol {
 .section-one {
     background: #2e2f42;
 }
-    
-    .head {
-        font-weight: 500;
-        font-size: 56px;
-        line-height: 1.07;
-        letter-spacing: 0.02em;
-        text-align: center;
-        color: #ffffff;
-    }
 
-    .buton {
-        font-family: 'Roboto', sans-serif;
-        font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        color: #fff;
-        background: #4d5ae5;
-        cursor: pointer;
-    }
+.head {
+    font-weight: 500;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+
+.button-class {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #fff;
+    background: #4d5ae5;
+    cursor: pointer;
+}
+    
 
