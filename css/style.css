@@ -105,7 +105,7 @@ ul, ol {
     background-color: #404BBF;
 }
 
-.s2-title-h3 {
+.section-second-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -114,7 +114,7 @@ ul, ol {
     color: #2e2f42; 
 }
 
-.s2-text-p {
+.text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -123,7 +123,7 @@ ul, ol {
     text-decoration: none;
 }
 
-.s2-title-h2 {
+.section-second {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -133,7 +133,7 @@ ul, ol {
     text-transform: capitalize;  
 }
 
-.s3-title-h2 {
+.section-third {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -143,7 +143,7 @@ ul, ol {
     background: #f4f4fd;
 }
 
-.s3-title-h3 {
+.teatle {
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
@@ -166,6 +166,32 @@ ul, ol {
 }
 
 .whoiswho {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455; 
+}
+
+.section-fourth {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize; 
+}
+
+.portfolio {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.portfolio-text {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
