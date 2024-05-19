@@ -123,3 +123,13 @@ ul, ol {
     text-decoration: none;
 }
 
+.s2-title-h2 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;  
+}
+
